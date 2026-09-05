@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Amaan 
 🔭 I’m currently working on<br>AI-powered automation, data analytics projects, and building practical tools that solve real-world problems.<br><br>👯 I’m looking to collaborate on<br>AI/automation, data analytics, Power BI, and open-source projects that turn data into useful products.<br><br>🤝 I’m looking for help with<br>Advanced AI/ML, LLM applications, and building scalable AI-powered solutions.<br><br>🌱 I’m currently learning<br>Generative AI, LLMs, AI agents, Python, and modern automation workflows.<br><br>💬 Ask me about<br>AI/ML,RAG,LLM,QA & software testing, SQL, Power BI, data analytics, APIs, and AI automation.<br><br>⚡ Fun fact<br>I enjoy turning ideas into actual projects — from dashboards and automation workflows to websites and digital products.
 
 
